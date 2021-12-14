@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'http://cdn.jsdelivr.net/gh/andrydtm/blogger/index.php';
+        var origin = 'https://www.trustedgatetocontent.com/b1h0zss9?key=fa36e0db535e20042a94f7dfd3155245';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
